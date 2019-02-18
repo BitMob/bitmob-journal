@@ -28,10 +28,14 @@
 - 引用 (blockquote)
 
 #### 可选字体
+1. 中文
 - 思源黑体
 - 思源宋体
+- 华文系列
+- Sarasa Mono
+2. 英文
 - Helvetica Neue
-- (待🦄️🈹补充)
+- EB Garamond
 
 #### 可选字号
 - H1 ~ H6
